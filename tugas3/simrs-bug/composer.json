@@ -1,0 +1,24 @@
+{
+    "name": "lsp-upnvj/simrs-buggy",
+    "description": "Project SIMRS dengan bug untuk tugas debugging uji kompetensi Analis Program",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Simrs\\": "src/"
+        },
+        "files": [
+            "db_connection.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Simrs\\Tests\\": "tests/"
+        }
+    }
+}
