@@ -1,6 +1,5 @@
 # SIMRS — Studi Kasus Uji Kompetensi Analis Program
 
-> **LSP Teknologi Informasi · Bagian V: Observasi Praktik**  
 > Nama: Akmal Taufiqurrahman · Tanggal: 05-05-2026
 
 ---
